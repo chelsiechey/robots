@@ -1,0 +1,29 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/jordykirkman/Desktop/Chelsie/dpl/projects_dpl/robots/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/jordykirkman/Desktop/Chelsie/dpl/projects_dpl/robots/app/models/robot.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/jordykirkman/Desktop/Chelsie/dpl/projects_dpl/robots/app/models/inventor.rb": [
+        1,
+        1,
+        null
+      ]
+    },
+    "timestamp": 1568169916
+  }
+}
